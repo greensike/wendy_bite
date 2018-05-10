@@ -1,0 +1,45 @@
+
+html{
+    padding: 30px;
+    background: #DDDDDD;
+    }
+    
+    body{
+    background: #444444;
+    margin: auto;
+    border: solid #777777;
+    width: 40vw;
+    height: 90vh;
+    /* text-align: center; */
+    padding: 20px;
+    color: white;
+    }
+    
+    h1{
+    text-align: center;
+    }
+    img{
+    float: right;
+    border: solid #777777;
+    margin: 5px;
+    padding: 5px;
+    }
+    p{
+    line-height: 1.2;
+    }
+    
+    a{
+    color: #31CC94;
+    }
+    
+    nav{
+    text-align: center;
+    }
+    
+    h2{
+    text-align: left;
+    }
+    
+    footer{
+    text-align: center;
+    }
